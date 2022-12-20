@@ -69,10 +69,13 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
 
 <br />
 
+<!---
+
+
 ## Github Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cybergeekgyan&theme=gruvbox)](https://github.com/cybergeekgyan/github-profile-trophy)	
-	
+-->	
 <br />
 
 <details>	
