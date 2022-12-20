@@ -8,7 +8,11 @@
 
 ## 🔗 Reach out to me
 
-<a href="https://www.linkedin.com/in/yusufcagridal/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/dalyusufcagri/"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="50px"/></a>&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12544106" height="45" width="45" /></a>&nbsp;&nbsp;&nbsp;<a href="https://google.com" target="blank" rel=”noopener”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@cengizcmataraci" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://discord.gg" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" height="30" width="26" /></a>
+<a href="https://www.linkedin.com/in/yusufcagridal/" target="blank" rel=”noopener”> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/dalyusufcagri/" target="blank" rel=”noopener”> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="50px"/></a>
+&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com" target="blank" rel=”noopener”><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12544106" height="45" width="45" /></a>
+&nbsp;&nbsp;&nbsp;<a href="https://google.com" target="blank" rel=”noopener”><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@cengizcmataraci" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;<a href="https://discord.gg" target="blank" rel=”noopener”><img src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" height="30" width="26" /></a>
 </p>
 
 
@@ -24,7 +28,7 @@ add gmail.com and github issues
 
 - 🔭 I’m working as Quality Assurance Engineer in manufacturing medical devices according to MDR
 - 🌱 I’m currently learning to become a full stack SDET 
-- 👯 I’m looking to collaborate on ML/AI/DL research projects
+- 👯 I’m looking to collaborate on RPA/AI research projects
 - 🤔 I’m looking for develop myself in  CyberSecurity
 
 <br />
@@ -37,9 +41,9 @@ add gmail.com and github issues
 <a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdlnwkdbiXy14Y9CmNNSXqkxjZyiG29bC2Glpv5PkiGniwcqe658DkV2Z982xMZe59sg0&usqp=CAU" alt="git" width="30" height="30"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
 <a href="https://html.com/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
-<a href="https://www.markdownguide.org/" target="_blank" rel=”noopener”> <img src="https://vecta.io/symbols/28/microsoft-azure-color/61/sql-database-generic" alt="SQL" width="30" height="30"/> </a>
+<a href="https://www.markdownguide.org/" target="_blank" rel=”noopener”> <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="SQL" width="30" height="30"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
-<a href="https://www.selenium.dev/" target="_blank" rel=”noopener”> <img src="file:///C:/Users/yusuf/Downloads/selenium.svg" alt="Selenium" width="30" height="30"/> </a>
+<a href="https://www.selenium.dev/" target="_blank" rel=”noopener”> <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" alt="Selenium" width="30" height="30"/> </a>
 
  
 
