@@ -8,7 +8,7 @@
 
 ## 🔗 Reach out to me
 
-<a href="https://www.linkedin.com/in/yusufcagridal/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/tarunksingh_"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://twitter.com/cybergeekgyan"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50px"/> </a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yusufcagridal/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/dalyusufcagri/"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="50px"/> 
 
 
 <!---
