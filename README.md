@@ -58,12 +58,11 @@ add intelli j, selenium, maven ...sql
 	
 <br />
 
-## 💘 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage, and I’m having tremendous amount of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
+## 💘 I’m currently challenging myself with:
+As a father of one 4-year-old son and working as a full time, I challange myself to: 
 
-* Learn to code 6-9 hours a day with no distraction ( One or two day off a week. ) 
-* Read a book a month
-* Workout 3 days in a row and take a day break 
+* Learn to code 5-7 hours a day  
+* Workout 2 days in a row and take a day break 
 * Avoid over usage of social media
 * Adapting the minimalism life style
 
