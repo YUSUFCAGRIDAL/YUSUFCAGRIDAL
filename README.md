@@ -1,12 +1,5 @@
-### Hi there 👋
-
-
-**YUSUFCAGRIDAL/YUSUFCAGRIDAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 <h1 align="center">Hi 👋, I'm YUSUF</h1>
-<img align="right" alt="GIF" width="480px" src="https://giphy.com/gifs/v-for-vendetta-RhvdJp3UPoDfi/fullscreen"/>
+<img align="right" alt="GIF" width="480px" src="https://media.giphy.com/media/RhvdJp3UPoDfi/giphy.gif"/>
 <h2 align="left">Softwere Developer Engineer in Test | QA </h2>
 <h4 align="left">QA Engineer at Gazi Group, Turkey</h4>
 <br />
