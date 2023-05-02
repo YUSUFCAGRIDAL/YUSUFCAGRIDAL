@@ -27,9 +27,9 @@ add gmail.com and github issues
 ## :blush: Want to know me?
 
 - 🔭 I’m working as Quality Assurance Engineer in manufacturing medical devices according to MDR
-- 🌱 I’m currently learning to become a full stack SDET 
+- 🌱 I’m currently doing Smoke Test, Regression Testing, UI Testing, API testing, Database Testing 
 - 👯 I’m looking to collaborate on RPA/AI research projects
-- 🤔 I’m looking for develop myself in  CyberSecurity
+- 🤔 I’m looking for develop myself in Agile
 
 <br />
 
